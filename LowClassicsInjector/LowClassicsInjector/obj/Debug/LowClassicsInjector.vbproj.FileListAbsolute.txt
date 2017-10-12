@@ -1,0 +1,11 @@
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\bin\Debug\LowClassicsInjector.exe.config
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\bin\Debug\LowClassicsInjector.exe
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\bin\Debug\LowClassicsInjector.pdb
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\bin\Debug\LowClassicsInjector.xml
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.vbprojResolveAssemblyReference.cache
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.Form1.resources
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.Resources.resources
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.vbproj.GenerateResource.Cache
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.exe
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.xml
+c:\users\artur\documents\visual studio 2017\Projects\LowClassicsInjector\LowClassicsInjector\obj\Debug\LowClassicsInjector.pdb
